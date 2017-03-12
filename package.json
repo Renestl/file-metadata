@@ -1,0 +1,25 @@
+{
+  "name": "file-metadata",
+  "version": "1.0.0",
+  "description": "File metadata microservice",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Renestl/file-metadata.git"
+  },
+  "author": "Jennifer Currie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Renestl/file-metadata/issues"
+  },
+  "homepage": "https://github.com/Renestl/file-metadata#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "multer": "^1.3.0",
+    "pug": "^2.0.0-beta11"
+  }
+}
