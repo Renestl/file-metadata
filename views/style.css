@@ -8,7 +8,11 @@ h4 {
 	margin: 10px auto;
 }
 p {
-	margin: 0 auto;
+	text-align: center;
+}
+form {
+display: flex;
+justify-content: center;	
 }
 footer {
 	margin-top: 50px;
